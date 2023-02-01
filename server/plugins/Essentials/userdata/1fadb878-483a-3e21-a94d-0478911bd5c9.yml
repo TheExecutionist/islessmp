@@ -1,0 +1,89 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1675222618767
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675222673975
+  login: 1675222509332
+money: '1131240.0'
+last-account-name: Chonken
+logoutlocation:
+  world: 167d9e0c-3241-4b9e-8139-5ee50cb2790a
+  world-name: hub
+  x: -458.30000001192093
+  y: 71.0
+  z: 23.960871760418847
+  yaw: -111.14945983886719
+  pitch: 11.999993324279785
+lastlocation:
+  world: 167d9e0c-3241-4b9e-8139-5ee50cb2790a
+  world-name: hub
+  x: -451.5257181661062
+  y: 71.0
+  z: 8.699999988079071
+  yaw: 61.3209342956543
+  pitch: 24.590242385864258
+homes:
+  home:
+    world: a31a5249-fc90-41fe-b637-5fc74aea769c
+    world-name: Survival
+    x: -1239.5384038839818
+    y: 51.0
+    z: -982.3400002687305
+    yaw: 217.863037109375
+    pitch: 60.44999694824219
+  monument:
+    world: a31a5249-fc90-41fe-b637-5fc74aea769c
+    world-name: Survival
+    x: 29763.021341963435
+    y: 41.0
+    z: -809.3971568660328
+    yaw: 180.7584228515625
+    pitch: 26.286144256591797
+  fortress:
+    world: e8d5b228-8c30-4caa-ab03-05403ac8c9cc
+    world-name: world_nether
+    x: 360.7947090982166
+    y: 68.0
+    z: 146.59520721242228
+    yaw: 228.50225830078125
+    pitch: 19.949993133544922
+  spawn:
+    world: a31a5249-fc90-41fe-b637-5fc74aea769c
+    world-name: Survival
+    x: -24.04657410757237
+    y: 63.0
+    z: -17.008601722424043
+    yaw: 270.75006103515625
+    pitch: -12.30000114440918
+  bm:
+    world: 167d9e0c-3241-4b9e-8139-5ee50cb2790a
+    world-name: hub
+    x: -447.4659882525445
+    y: 71.0
+    z: 10.60653434280043
+    yaw: 73.02093505859375
+    pitch: 18.890241622924805
+mail:
+- legacy: false
+  read: false
+  message: Due to the multiverse-core plugin disabling nether and end portals from
+    working. Both dimensions can be accessed by right clicking the npc with the said
+    dimension name. To access the hub world do /warp hub
+  sender-name: Console
+  sender-uuid: 'null'
+  timestamp: 1675095427307
+  expire: 0

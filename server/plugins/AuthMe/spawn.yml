@@ -1,0 +1,14 @@
+spawn:
+  world: 'world'
+  x: '-476'
+  y: '71'
+  z: '2'
+  yaw: ''
+  pitch: ''
+firstspawn:
+  world: 'world'
+  x: '-476'
+  y: '71'
+  z: '2'
+  yaw: ''
+  pitch: ''

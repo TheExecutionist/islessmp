@@ -1,0 +1,1062 @@
+royal_chestplate:
+  Slot1:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_INGOT
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§6Radiant Gold Ingot
+      lore:
+      - ''
+      - §6§lLEGENDARY ITEM
+      enchants:
+        OXYGEN: 10000
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot2:
+    ==: org.bukkit.inventory.ItemStack
+    type: BLAZE_POWDER
+  Slot3:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_INGOT
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§6Radiant Gold Ingot
+      lore:
+      - ''
+      - §6§lLEGENDARY ITEM
+      enchants:
+        OXYGEN: 10000
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot4:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_INGOT
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§6Radiant Gold Ingot
+      lore:
+      - ''
+      - §6§lLEGENDARY ITEM
+      enchants:
+        OXYGEN: 10000
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot5:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_INGOT
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§6Radiant Gold Ingot
+      lore:
+      - ''
+      - §6§lLEGENDARY ITEM
+      enchants:
+        OXYGEN: 10000
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot6:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_INGOT
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§6Radiant Gold Ingot
+      lore:
+      - ''
+      - §6§lLEGENDARY ITEM
+      enchants:
+        OXYGEN: 10000
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot7:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_INGOT
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§6Radiant Gold Ingot
+      lore:
+      - ''
+      - §6§lLEGENDARY ITEM
+      enchants:
+        OXYGEN: 10000
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot8:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_INGOT
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§6Radiant Gold Ingot
+      lore:
+      - ''
+      - §6§lLEGENDARY ITEM
+      enchants:
+        OXYGEN: 10000
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot9:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_INGOT
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§6Radiant Gold Ingot
+      lore:
+      - ''
+      - §6§lLEGENDARY ITEM
+      enchants:
+        OXYGEN: 10000
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Product:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§6Royal Chestplate
+      lore:
+      - §eAngelic V
+      - §6Armored IV
+      - §6Chunky VI
+      - ''
+      - §c§lRARE CHESTPLATE
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 6
+        THORNS: 3
+      repair-cost: 3
+      Unbreakable: true
+      internal: H4sIAAAAAAAAAONiYGBmEEtMjU/NS85IzCvJTc0rsU7MS0/NyUxmYGBgZWZgLc7JLykGspmZGUTRFCZnlOZlVwLl2LAYUpSbX5SaApRkYQAAblXyuWYAAAA=
+  Enabled: true
+  Type: Shapeless
+royal_leggings:
+  Slot1:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_INGOT
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§6Radiant Gold Ingot
+      lore:
+      - ''
+      - §6§lLEGENDARY ITEM
+      enchants:
+        OXYGEN: 10000
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot2:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_INGOT
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§6Radiant Gold Ingot
+      lore:
+      - ''
+      - §6§lLEGENDARY ITEM
+      enchants:
+        OXYGEN: 10000
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot3:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_INGOT
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§6Radiant Gold Ingot
+      lore:
+      - ''
+      - §6§lLEGENDARY ITEM
+      enchants:
+        OXYGEN: 10000
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot4:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_INGOT
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§6Radiant Gold Ingot
+      lore:
+      - ''
+      - §6§lLEGENDARY ITEM
+      enchants:
+        OXYGEN: 10000
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot5:
+    ==: org.bukkit.inventory.ItemStack
+    type: BLAZE_POWDER
+  Slot6:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_INGOT
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§6Radiant Gold Ingot
+      lore:
+      - ''
+      - §6§lLEGENDARY ITEM
+      enchants:
+        OXYGEN: 10000
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot7:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_INGOT
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§6Radiant Gold Ingot
+      lore:
+      - ''
+      - §6§lLEGENDARY ITEM
+      enchants:
+        OXYGEN: 10000
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot9:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_INGOT
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§6Radiant Gold Ingot
+      lore:
+      - ''
+      - §6§lLEGENDARY ITEM
+      enchants:
+        OXYGEN: 10000
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Product:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§6Royal Leggings
+      lore:
+      - §6Armored IV
+      - §dImmortal IV
+      - ''
+      - §c§lRARE LEGGINGS
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+        THORNS: 3
+      repair-cost: 3
+      Unbreakable: true
+      internal: H4sIAAAAAAAAAONiYGBmYC3OyS8pZmBgYGJmEEtMjU/NS85IzCvJTc0rsU4sys0vSk0BSrIwM4ijSWbmAiVLEnNAsgwAfvEGAUsAAAA=
+  Enabled: true
+  Type: Shapeless
+royal_boots:
+  Slot4:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_INGOT
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§6Radiant Gold Ingot
+      lore:
+      - ''
+      - §6§lLEGENDARY ITEM
+      enchants:
+        OXYGEN: 10000
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot5:
+    ==: org.bukkit.inventory.ItemStack
+    type: BLAZE_POWDER
+  Slot6:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_INGOT
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§6Radiant Gold Ingot
+      lore:
+      - ''
+      - §6§lLEGENDARY ITEM
+      enchants:
+        OXYGEN: 10000
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot7:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_INGOT
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§6Radiant Gold Ingot
+      lore:
+      - ''
+      - §6§lLEGENDARY ITEM
+      enchants:
+        OXYGEN: 10000
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot9:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_INGOT
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§6Radiant Gold Ingot
+      lore:
+      - ''
+      - §6§lLEGENDARY ITEM
+      enchants:
+        OXYGEN: 10000
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Product:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§6Royal Boots
+      lore:
+      - §6Armored IV
+      - §6Gears III
+      - ''
+      - §c§lRARE BOOTS
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 6
+        THORNS: 3
+      repair-cost: 3
+      Unbreakable: true
+      internal: H4sIAAAAAAAAAONiYGBmYC3OyS8pZmBgYGJmEElMjU/NS85IzCvJTc0rsU5PTSwCSTEzM4ihSSUW5eYXpaYAJVkYACKDF7BIAAAA
+  Enabled: true
+  Type: Shapeless
+radiant_gold_ingot:
+  Slot1:
+    ==: org.bukkit.inventory.ItemStack
+    type: BLAZE_POWDER
+  Slot2:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_BLOCK
+  Slot3:
+    ==: org.bukkit.inventory.ItemStack
+    type: BLAZE_POWDER
+  Slot4:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_BLOCK
+  Slot5:
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+  Slot6:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_BLOCK
+  Slot7:
+    ==: org.bukkit.inventory.ItemStack
+    type: BLAZE_POWDER
+  Slot8:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_BLOCK
+  Slot9:
+    ==: org.bukkit.inventory.ItemStack
+    type: BLAZE_POWDER
+  Product:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_INGOT
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§6Radiant Gold Ingot
+      lore:
+      - ''
+      - §6§lLEGENDARY ITEM
+      enchants:
+        OXYGEN: 10000
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Enabled: true
+  Type: Shapeless
+royal_bow:
+  Slot2:
+    ==: org.bukkit.inventory.ItemStack
+    type: BLAZE_ROD
+  Slot3:
+    ==: org.bukkit.inventory.ItemStack
+    type: STRING
+  Slot4:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_INGOT
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§6Radiant Gold Ingot
+      lore:
+      - ''
+      - §6§lLEGENDARY ITEM
+      enchants:
+        OXYGEN: 10000
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot6:
+    ==: org.bukkit.inventory.ItemStack
+    type: BLAZE_POWDER
+  Slot8:
+    ==: org.bukkit.inventory.ItemStack
+    type: BLAZE_ROD
+  Slot9:
+    ==: org.bukkit.inventory.ItemStack
+    type: STRING
+  Product:
+    ==: org.bukkit.inventory.ItemStack
+    type: BOW
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§6Royal Bow
+      lore:
+      - §aExplosive V
+      - §bBowmaster V
+      - §eArcher IV
+      - §eHellfire V
+      - ''
+      - §c§lRARE BOW
+      enchants:
+        ARROW_DAMAGE: 5
+        ARROW_KNOCKBACK: 2
+        ARROW_FIRE: 1
+        ARROW_INFINITE: 1
+      repair-cost: 15
+      Unbreakable: true
+      internal: H4sIAAAAAAAAAF3MQQqAIBBG4R/MTfuou3SYmGRCYdTQoTp+Ua1cf7zXAwa2StYKoDMYiRdOzlPSyElnzyJbKPyoNZga5WuXXMPx89AwFee5fOM2XfMZqerLFjcmvCr8iAAAAA==
+  Enabled: true
+  Type: Shapeless
+royal_banner:
+  Slot1:
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 4
+  Slot2:
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 4
+  Slot3:
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 4
+  Slot4:
+    ==: org.bukkit.inventory.ItemStack
+    type: BLAZE_POWDER
+  Slot5:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_INGOT
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§6Radiant Gold Ingot
+      lore:
+      - ''
+      - §6§lLEGENDARY ITEM
+      enchants:
+        OXYGEN: 10000
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot6:
+    ==: org.bukkit.inventory.ItemStack
+    type: BLAZE_POWDER
+  Slot8:
+    ==: org.bukkit.inventory.ItemStack
+    type: BLAZE_ROD
+  Product:
+    ==: org.bukkit.inventory.ItemStack
+    type: BANNER
+    damage: 11
+    meta:
+      ==: ItemMeta
+      meta-type: BANNER
+      display-name: §r§6Royal Banner
+      lore:
+      - ''
+      - §c§lRARE BANNER
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 6
+        WATER_WORKER: 1
+        THORNS: 5
+      repair-cost: 15
+      base-color: YELLOW
+  Enabled: true
+  Type: Shapeless
+enchanted_prismarine_shard:
+  Slot1:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_INGOT
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§6Radiant Gold Ingot
+      lore:
+      - ''
+      - §6§lLEGENDARY ITEM
+      enchants:
+        OXYGEN: 10000
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot2:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    amount: 5
+  Slot3:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_INGOT
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§6Radiant Gold Ingot
+      lore:
+      - ''
+      - §6§lLEGENDARY ITEM
+      enchants:
+        OXYGEN: 10000
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot4:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    amount: 5
+  Slot5:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    amount: 5
+  Slot6:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    amount: 5
+  Slot7:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_INGOT
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§6Radiant Gold Ingot
+      lore:
+      - ''
+      - §6§lLEGENDARY ITEM
+      enchants:
+        OXYGEN: 10000
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot8:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    amount: 5
+  Slot9:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_INGOT
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§6Radiant Gold Ingot
+      lore:
+      - ''
+      - §6§lLEGENDARY ITEM
+      enchants:
+        OXYGEN: 10000
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Product:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §bEnchanted Prismarine Shard
+      lore:
+      - ''
+      - §c§lRARE ITEM
+      enchants:
+        DAMAGE_ALL: 1
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Enabled: true
+  Type: Shapeless
+prismarine_helmet:
+  Slot1:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §bEnchanted Prismarine Shard
+      lore:
+      - ''
+      - §c§lRARE ITEM
+      enchants:
+        DAMAGE_ALL: 1
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot2:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §bEnchanted Prismarine Shard
+      lore:
+      - ''
+      - §c§lRARE ITEM
+      enchants:
+        DAMAGE_ALL: 1
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot3:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §bEnchanted Prismarine Shard
+      lore:
+      - ''
+      - §c§lRARE ITEM
+      enchants:
+        DAMAGE_ALL: 1
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot4:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §bEnchanted Prismarine Shard
+      lore:
+      - ''
+      - §c§lRARE ITEM
+      enchants:
+        DAMAGE_ALL: 1
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot6:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §bEnchanted Prismarine Shard
+      lore:
+      - ''
+      - §c§lRARE ITEM
+      enchants:
+        DAMAGE_ALL: 1
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Product:
+    ==: org.bukkit.inventory.ItemStack
+    type: STAINED_GLASS
+    damage: 9
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§3Prismarine Helmet
+      lore:
+      - ''
+      - §c§lRARE HELMET
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 5
+        OXYGEN: 10
+        WATER_WORKER: 1
+      repair-cost: 7
+  Enabled: true
+  Type: Shapeless
+prismarine_chestplate:
+  Slot1:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §bEnchanted Prismarine Shard
+      lore:
+      - ''
+      - §c§lRARE ITEM
+      enchants:
+        DAMAGE_ALL: 1
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot3:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §bEnchanted Prismarine Shard
+      lore:
+      - ''
+      - §c§lRARE ITEM
+      enchants:
+        DAMAGE_ALL: 1
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot4:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §bEnchanted Prismarine Shard
+      lore:
+      - ''
+      - §c§lRARE ITEM
+      enchants:
+        DAMAGE_ALL: 1
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot5:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §bEnchanted Prismarine Shard
+      lore:
+      - ''
+      - §c§lRARE ITEM
+      enchants:
+        DAMAGE_ALL: 1
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot6:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §bEnchanted Prismarine Shard
+      lore:
+      - ''
+      - §c§lRARE ITEM
+      enchants:
+        DAMAGE_ALL: 1
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot7:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §bEnchanted Prismarine Shard
+      lore:
+      - ''
+      - §c§lRARE ITEM
+      enchants:
+        DAMAGE_ALL: 1
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot8:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §bEnchanted Prismarine Shard
+      lore:
+      - ''
+      - §c§lRARE ITEM
+      enchants:
+        DAMAGE_ALL: 1
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot9:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §bEnchanted Prismarine Shard
+      lore:
+      - ''
+      - §c§lRARE ITEM
+      enchants:
+        DAMAGE_ALL: 1
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Product:
+    ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §r§3Prismarine Chestplate
+      lore:
+      - ''
+      - §c§lRARE CHESTPLATE
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 8
+        THORNS: 7
+      repair-cost: 31
+      Unbreakable: true
+      color:
+        ==: Color
+        RED: 133
+        BLUE: 187
+        GREEN: 209
+  Enabled: true
+  Type: Shapeless
+prismarine_leggings:
+  Slot1:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §bEnchanted Prismarine Shard
+      lore:
+      - ''
+      - §c§lRARE ITEM
+      enchants:
+        DAMAGE_ALL: 1
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot2:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §bEnchanted Prismarine Shard
+      lore:
+      - ''
+      - §c§lRARE ITEM
+      enchants:
+        DAMAGE_ALL: 1
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot3:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §bEnchanted Prismarine Shard
+      lore:
+      - ''
+      - §c§lRARE ITEM
+      enchants:
+        DAMAGE_ALL: 1
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot4:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §bEnchanted Prismarine Shard
+      lore:
+      - ''
+      - §c§lRARE ITEM
+      enchants:
+        DAMAGE_ALL: 1
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot6:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §bEnchanted Prismarine Shard
+      lore:
+      - ''
+      - §c§lRARE ITEM
+      enchants:
+        DAMAGE_ALL: 1
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot7:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §bEnchanted Prismarine Shard
+      lore:
+      - ''
+      - §c§lRARE ITEM
+      enchants:
+        DAMAGE_ALL: 1
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot9:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §bEnchanted Prismarine Shard
+      lore:
+      - ''
+      - §c§lRARE ITEM
+      enchants:
+        DAMAGE_ALL: 1
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Product:
+    ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §r§3Prismarine Leggings
+      lore:
+      - ''
+      - §c§lRARE LEGGINGS
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 7
+        THORNS: 5
+      repair-cost: 31
+      Unbreakable: true
+      color:
+        ==: Color
+        RED: 133
+        BLUE: 187
+        GREEN: 209
+  Enabled: true
+  Type: Shapeless
+prismarine_boots:
+  Slot4:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §bEnchanted Prismarine Shard
+      lore:
+      - ''
+      - §c§lRARE ITEM
+      enchants:
+        DAMAGE_ALL: 1
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot6:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §bEnchanted Prismarine Shard
+      lore:
+      - ''
+      - §c§lRARE ITEM
+      enchants:
+        DAMAGE_ALL: 1
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot7:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §bEnchanted Prismarine Shard
+      lore:
+      - ''
+      - §c§lRARE ITEM
+      enchants:
+        DAMAGE_ALL: 1
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot9:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §bEnchanted Prismarine Shard
+      lore:
+      - ''
+      - §c§lRARE ITEM
+      enchants:
+        DAMAGE_ALL: 1
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Product:
+    ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §r§3Prismarine Boots
+      lore:
+      - §6Aqua IV
+      - ''
+      - §c§lRARE BOOTS
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 5
+        DEPTH_STRIDER: 7
+        PROTECTION_FALL: 5
+        THORNS: 6
+      Unbreakable: true
+      internal: H4sIAAAAAAAAAONiYGBmYC3OyS8pZmBgYGRmEE5MjU/NS85IzCvJTc0rsU4sLE0EyrAwAADNue4DKgAAAA==
+      color:
+        ==: Color
+        RED: 133
+        BLUE: 187
+        GREEN: 209
+  Enabled: true
+  Type: Shapeless
+prismarine_dagger:
+  Slot2:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §bEnchanted Prismarine Shard
+      lore:
+      - ''
+      - §c§lRARE ITEM
+      enchants:
+        DAMAGE_ALL: 1
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot5:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §bEnchanted Prismarine Shard
+      lore:
+      - ''
+      - §c§lRARE ITEM
+      enchants:
+        DAMAGE_ALL: 1
+      ItemFlags: !!set
+        HIDE_ENCHANTS: null
+  Slot8:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_CRYSTALS
+  Product:
+    ==: org.bukkit.inventory.ItemStack
+    type: PRISMARINE_SHARD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §r§3Prismarine Dagger
+      lore:
+      - ''
+      - §c§lRARE SWORD
+      enchants:
+        DAMAGE_ALL: 7
+        KNOCKBACK: 2
+        LOOT_BONUS_MOBS: 3
+      repair-cost: 15
+      internal: H4sIAAAAAAAAAONiYOBk4HHNS85IzCvJTc0rKeZiYGBgZmZgzinLAbJYmRmYMlOADAEGuBgTTEwYIcYMExMFirG5JOYmpqcCefwMAKUetpVhAAAA
+  Enabled: true
+  Type: Shaped

@@ -1,0 +1,52 @@
+[16:05:36] [main/INFO]: Using mbed TLS based native cipher.
+[16:05:36] [main/INFO]: Using zlib based native compressor.
+[16:05:36] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.19-R0.1-SNAPSHOT:13085b9:510
+[16:05:36] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
+[16:05:36] [main/INFO]: Epoll is working, utilising it!
+[16:05:37] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+[16:05:37] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+[16:05:37] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+[16:05:37] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+[16:05:37] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+[16:05:37] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+[16:05:38] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[16:05:38] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[16:05:38] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[16:05:38] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[16:05:38] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[16:05:38] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[16:05:38] [main/INFO] [EaglercraftXBungee]: Loading vanilla profile: lax1dude
+[16:05:45] [main/WARN] [EaglercraftXBungee]: Profile load timed out
+[16:05:45] [main/INFO]: Loaded plugin EaglercraftXBungee version 1.0.4 by lax1dude
+[16:05:46] [main/WARN]: Could not load server icon
+java.lang.IllegalArgumentException: Server icon must be exactly 64x64 pixels
+	at net.md_5.bungee.api.Favicon.create(Favicon.java:65) ~[bungee.jar:git:Waterfall-Bootstrap:1.19-R0.1-SNAPSHOT:13085b9:510]
+	at net.md_5.bungee.conf.Configuration.load(Configuration.java:89) ~[bungee.jar:git:Waterfall-Bootstrap:1.19-R0.1-SNAPSHOT:13085b9:510]
+	at io.github.waterfallmc.waterfall.conf.WaterfallConfiguration.load(WaterfallConfiguration.java:67) ~[bungee.jar:git:Waterfall-Bootstrap:1.19-R0.1-SNAPSHOT:13085b9:510]
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:288) ~[bungee.jar:git:Waterfall-Bootstrap:1.19-R0.1-SNAPSHOT:13085b9:510]
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67) ~[bungee.jar:git:Waterfall-Bootstrap:1.19-R0.1-SNAPSHOT:13085b9:510]
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15) ~[bungee.jar:git:Waterfall-Bootstrap:1.19-R0.1-SNAPSHOT:13085b9:510]
+[16:05:46] [main/WARN]: Forced host server pvp is not defined
+[16:05:47] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[16:05:47] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[16:05:47] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[16:05:47] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[16:05:47] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[16:05:47] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[16:05:47] [main/ERROR] [EaglercraftXBungee]: Online mode is set to false! Authentication system has been disabled
+[16:05:48] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: Eaglercraft is listening on: /0.0.0.0:8081
+[16:05:52] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+[16:05:52] [Skin Download Thread #1/INFO] [EaglercraftXBungee]: Loaded vanilla profile: lax1dude
+[16:05:53] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.4 by lax1dude
+[16:05:53] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
+[16:07:55] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:38886]: Connected via websocket
+[16:07:55] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:38886]: Origin header is null
+[16:07:55] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:38886]: Logged in as 'TheExecutionist'
+[16:07:55] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:38886|TheExecutionist] -> UpstreamBridge has connected
+[16:07:56] [Netty Worker IO Thread #0/WARN]: Event LoginEvent(cancelled=false, cancelReasonComponents=null, loginResult=null, connection=[/172.31.128.1:38886|TheExecutionist] <-> InitialHandler) took 690ms to process!
+[16:07:56] [Netty Worker IO Thread #0/WARN]: Event PreLoginEvent(cancelled=false, cancelReasonComponents=null, connection=[/172.31.128.1:38886|TheExecutionist] <-> InitialHandler) took 709ms to process!
+[16:07:56] [Netty Worker IO Thread #0/INFO]: [TheExecutionist|/172.31.128.1:38886] <-> ServerConnector [lobby] has connected
+[16:08:00] [Netty Worker IO Thread #0/WARN]: Plugin listener net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.handlers.EaglerPacketEventListener took 100ms to process event PluginMessageEvent(super=TargetedEvent(sender=TheExecutionist, receiver=net.md_5.bungee.ServerConnection@74e20c63), cancelled=true, tag=EAG|Skins-1.8)!
+[16:24:48] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:38886|TheExecutionist] -> UpstreamBridge has disconnected
+[16:24:48] [Netty Worker IO Thread #0/INFO]: [TheExecutionist] disconnected with: Proxy lost connection to server.
+[16:24:48] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:38886|TheExecutionist] <-> DownstreamBridge <-> [lobby] has disconnected

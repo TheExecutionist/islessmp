@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1675205220570
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675205830926
+  login: 1675205179608
+money: '0'
+last-account-name: Wait_What_Glitch
+logoutlocation:
+  world: a31a5249-fc90-41fe-b637-5fc74aea769c
+  world-name: Survival
+  x: -35.4818930720775
+  y: 71.0
+  z: -138.53595313339514
+  yaw: 177.30006408691406
+  pitch: 44.84999465942383
+lastlocation:
+  world: a31a5249-fc90-41fe-b637-5fc74aea769c
+  world-name: Survival
+  x: -143.67013165504605
+  y: 69.0
+  z: 117.13034134112281
+  yaw: 230.10018920898438
+  pitch: 2.549992322921753

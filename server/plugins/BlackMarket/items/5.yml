@@ -1,0 +1,24 @@
+owner: ab7f3eb0-bc3b-350d-ab5c-56984c3c89b4
+value: 125000.0
+date: 1675213965258
+status: TIME_OUT
+item:
+  ==: org.bukkit.inventory.ItemStack
+  type: DIAMOND_SWORD
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §6§lHeroic Nightmare Killer
+    lore:
+    - §6Disarmor IV
+    - §6Double Strike I
+    - §6§oAn onyx blade with dark legacy,
+    - §6§orumor has it this bald only
+    - §6§oexists for a few fleeting moments
+    - §6§obefore and after each assassination.
+    enchants:
+      DAMAGE_ALL: 5
+      DURABILITY: 3
+      FIRE_ASPECT: 2
+    internal: H4sIAAAAAAAAAONiYGBmYC3OyS8pZmBgYGJmkE5MjU/NS85IzCvJTc0rsU7JL03KSS0uKcrMTgWqYGRmEEdXkVmcWJSbXwSUZWEAADT5WttQAAAA
+notified: false

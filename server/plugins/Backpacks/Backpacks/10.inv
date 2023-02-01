@@ -1,0 +1,112 @@
+Size: 54
+Name: Large Backpack
+ID: 10
+Items:
+- ==: org.bukkit.inventory.ItemStack
+  type: ENDER_PEARL
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: ENDER_PEARL
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: ENDER_PEARL
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: ENDER_PEARL
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: ENDER_PEARL
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: ENDER_PEARL
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: ENDER_PEARL
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: ENDER_PEARL
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: ENDER_PEARL
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: ENDER_PEARL
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: ENDER_PEARL
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: ENDER_PEARL
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: ENDER_PEARL
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: ENDER_PEARL
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: ENDER_PEARL
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: ENDER_PEARL
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: ENDER_PEARL
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: ENDER_PEARL
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: ENDER_PEARL
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: ENDER_PEARL
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: ENDER_PEARL
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: ENDER_PEARL
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: ENDER_PEARL
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: ENDER_PEARL
+  amount: 16
+- ==: org.bukkit.inventory.ItemStack
+  type: ENDER_PEARL
+  amount: 16
+- ==: org.bukkit.inventory.ItemStack
+  type: ENDER_PEARL
+  amount: 16
+- ==: org.bukkit.inventory.ItemStack
+  type: ENDER_PEARL
+  amount: 16
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null

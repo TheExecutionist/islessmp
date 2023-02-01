@@ -1,0 +1,269 @@
+Size: 54
+Name: Large Backpack
+ID: 8
+Items:
+- ==: org.bukkit.inventory.ItemStack
+  type: SKULL_ITEM
+  damage: 3
+  meta:
+    ==: ItemMeta
+    meta-type: SKULL
+    display-name: §r§5Ender Warrior Helmet
+    lore:
+    - ''
+    - §1§lEPIC HELMET
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 9
+      OXYGEN: 65533
+      THORNS: 5
+    repair-cost: 7
+    internal: H4sIAAAAAAAAAE2PzU6DQBzE/5qYVOJjeCVZCqxw8FCt0iVdsC0tXW58LOFjqQ0Fw/JcPqB79DCTTH4zh9EANHg6tKMQX/13WQu+gHtSwLNr2Jg7JdbzQpmFOdZThHPdyV3HMZ3MTLNSA02Nrrwfan57hMXAp2Hs+U0DgLsFPJxSMXL45dJHyblCxdkXuSRY5eiAREia6wu5nGT2TjDpFN+s8Fa6/7r2kMa2YKZfJZfdmHUntDX3gm/2Rt4df8I1nYLIr+lctWz+QLQ5WqG3mwIvaZM1tVj8WVGPGIF3XNKIWkHz1gVLxSNqKxmsoZLNqymJiaSKJREzWe275Rm9qgfwB1plBZocAQAA
+- ==: org.bukkit.inventory.ItemStack
+  type: STAINED_GLASS
+  damage: 9
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §r§3Prismarine Helmet
+    lore:
+    - ''
+    - §4§lRARE HELMET
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 5
+      OXYGEN: 10
+      WATER_WORKER: 1
+    repair-cost: 7
+- ==: org.bukkit.inventory.ItemStack
+  type: BANNER
+  damage: 11
+- null
+- null
+- null
+- null
+- null
+- null
+- ==: org.bukkit.inventory.ItemStack
+  type: LEATHER_CHESTPLATE
+  meta:
+    ==: ItemMeta
+    meta-type: LEATHER_ARMOR
+    display-name: §r§5Ender Warrior Chestplate
+    lore:
+    - ''
+    - §1§lEPIC CHESTPLATE
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 10
+      THORNS: 8
+    repair-cost: 7
+    Unbreakable: true
+    color:
+      ==: Color
+      RED: 25
+      BLUE: 25
+      GREEN: 25
+- ==: org.bukkit.inventory.ItemStack
+  type: LEATHER_CHESTPLATE
+  meta:
+    ==: ItemMeta
+    meta-type: LEATHER_ARMOR
+    display-name: §r§3Prismarine Chestplate
+    lore:
+    - ''
+    - §4§lRARE CHESTPLATE
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 8
+      THORNS: 7
+    repair-cost: 31
+    Unbreakable: true
+    color:
+      ==: Color
+      RED: 133
+      BLUE: 187
+      GREEN: 209
+- ==: org.bukkit.inventory.ItemStack
+  type: GOLD_CHESTPLATE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §r§6Royal Chestplate
+    lore:
+    - §eAngelic V
+    - §6Armored IV
+    - §6Chunky VI
+    - ''
+    - §c§lRARE CHESTPLATE
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 6
+      THORNS: 3
+    repair-cost: 3
+    Unbreakable: true
+- null
+- null
+- null
+- null
+- null
+- null
+- ==: org.bukkit.inventory.ItemStack
+  type: LEATHER_LEGGINGS
+  meta:
+    ==: ItemMeta
+    meta-type: LEATHER_ARMOR
+    display-name: §r§5Ender Warrior Leggings
+    lore:
+    - ''
+    - §1§lEPIC LEGGINGS
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 8
+      THORNS: 5
+    repair-cost: 7
+    Unbreakable: true
+    color:
+      ==: Color
+      RED: 25
+      BLUE: 25
+      GREEN: 25
+- ==: org.bukkit.inventory.ItemStack
+  type: LEATHER_LEGGINGS
+  meta:
+    ==: ItemMeta
+    meta-type: LEATHER_ARMOR
+    display-name: §r§3Prismarine Leggings
+    lore:
+    - ''
+    - §4§lRARE LEGGINGS
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 7
+      THORNS: 5
+    repair-cost: 31
+    Unbreakable: true
+    color:
+      ==: Color
+      RED: 133
+      BLUE: 187
+      GREEN: 209
+- ==: org.bukkit.inventory.ItemStack
+  type: GOLD_LEGGINGS
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §r§6Royal Leggings
+    lore:
+    - §6Armored IV
+    - §dImmortal IV
+    - ''
+    - §c§lRARE LEGGINGS
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 4
+      THORNS: 3
+    repair-cost: 3
+    Unbreakable: true
+- null
+- null
+- null
+- null
+- null
+- null
+- ==: org.bukkit.inventory.ItemStack
+  type: LEATHER_BOOTS
+  meta:
+    ==: ItemMeta
+    meta-type: LEATHER_ARMOR
+    display-name: §r§5Ender Warrior Leggings
+    lore:
+    - ''
+    - §1§lEPIC BOOTS
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 6
+      PROTECTION_FALL: 6
+      THORNS: 3
+    repair-cost: 31
+    Unbreakable: true
+    color:
+      ==: Color
+      RED: 25
+      BLUE: 25
+      GREEN: 25
+- ==: org.bukkit.inventory.ItemStack
+  type: LEATHER_BOOTS
+  meta:
+    ==: ItemMeta
+    meta-type: LEATHER_ARMOR
+    display-name: §r§3Prismarine Boots
+    lore:
+    - §6Aqua IV
+    - ''
+    - §4§lRARE BOOTS
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 5
+      PROTECTION_FALL: 5
+      THORNS: 6
+    Unbreakable: true
+    color:
+      ==: Color
+      RED: 133
+      BLUE: 187
+      GREEN: 209
+- ==: org.bukkit.inventory.ItemStack
+  type: GOLD_BOOTS
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §r§6Royal Boots
+    lore:
+    - §6Armored IV
+    - §6Gears III
+    - ''
+    - §c§lRARE BOOTS
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 6
+      THORNS: 3
+    repair-cost: 3
+    Unbreakable: true
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- ==: org.bukkit.inventory.ItemStack
+  type: LEATHER_CHESTPLATE
+  meta:
+    ==: ItemMeta
+    meta-type: LEATHER_ARMOR
+    display-name: '§aLarge Backpack #5'
+    lore:
+    - §7Store all your stuff in the mother of all backpacks.
+    color:
+      ==: Color
+      RED: 128
+      BLUE: 0
+      GREEN: 0
+- ==: org.bukkit.inventory.ItemStack
+  type: LEATHER_CHESTPLATE
+  meta:
+    ==: ItemMeta
+    meta-type: LEATHER_ARMOR
+    display-name: '§aLarge Backpack #6'
+    lore:
+    - §7Store all your stuff in the mother of all backpacks.
+    color:
+      ==: Color
+      RED: 128
+      BLUE: 0
+      GREEN: 0
+- null
+- null
+- null
+- null
+- null
+- null

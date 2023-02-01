@@ -1,0 +1,21 @@
+#Backpacks by drew6017 on YouTube. All rights reserved.
+#Fri Jan 27 08:05:31 GMT 2023
+bp_usage1=&cCorrect usage\: /backpack <player\:none> <type>
+lang_change=&eLanguage changed to "%ID%"\!
+cannot_assign_bp=&cYou do not have permission to assign this backpack. If you feel this to be a mistake, please contact your administrator.
+rs_toggle_on=&eYou have toggled %PLAYER%'s Backpacks resource pack to &aon
+give_backpack=&eGiven backpack &aID\: \#%ID% &eto %PLAYER%\!
+error_clone1=&cPlease hold a backpack in your hand to clone it.
+success_clone=&eBackpack has been successfully cloned.
+rs_toggle_off=&eYou have toggled %PLAYER%'s Backpacks resource pack to &aoff
+lang_wrong_usage=&cCorrect usage\: /langbp <language>
+give_key=&eGiven backpack key to %PLAYER%\!
+not_online=&c%PLAYER% must be online to do this.
+rs_toggle_off_self=&eYou have toggled your Backpacks resource pack to &aoff
+bp_types=&3Valid backpack types\:
+player_not_found=&cPlayer\: %PLAYER% has not been found\! Please enter a valid player name.
+rs_toggle_on_self=&eYou have toggled your Backpacks resource pack to &aon
+no_valid_bp=&cYou are not wearing a valid backpack.
+lang_not_supported=&cLanguage not supported\! Supported languages\: English(en), Spanish(sp)
+no_bp=&cYou are not wearing a backpack.
+bp_usage2=&cCorrect usage\: /givebpkey <player\:none>

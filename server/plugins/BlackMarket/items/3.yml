@@ -1,0 +1,25 @@
+owner: ab7f3eb0-bc3b-350d-ab5c-56984c3c89b4
+value: 2.0
+date: 1674638792604
+status: TIME_OUT
+item:
+  ==: org.bukkit.inventory.ItemStack
+  type: LEATHER_LEGGINGS
+  meta:
+    ==: ItemMeta
+    meta-type: LEATHER_ARMOR
+    display-name: §r§5Ender Warrior Leggings
+    lore:
+    - ''
+    - §1§lEPIC LEGGINGS
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 8
+      THORNS: 5
+    repair-cost: 7
+    Unbreakable: true
+    color:
+      ==: Color
+      RED: 25
+      BLUE: 25
+      GREEN: 25
+notified: false

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1675199441903
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675199676224
+  login: 1675199427925
+money: '0'
+last-account-name: Yuko_duck
+lastlocation:
+  world: 83d69c3b-1167-4374-bb29-eaa6fcda796f
+  world-name: world
+  x: 0.0
+  y: 18.0
+  z: 0.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 167d9e0c-3241-4b9e-8139-5ee50cb2790a
+  world-name: hub
+  x: -461.683813849984
+  y: 71.0
+  z: 9.623416385516757
+  yaw: -87.300048828125
+  pitch: 3.600008487701416

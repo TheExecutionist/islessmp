@@ -1,0 +1,48 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1674858878682
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674870568209
+  login: 1674870539106
+money: '0'
+last-account-name: wasup1st
+lastlocation:
+  world: a31a5249-fc90-41fe-b637-5fc74aea769c
+  world-name: Survival
+  x: 0.0
+  y: 62.0
+  z: 0.0
+  yaw: 4.350000381469727
+  pitch: 26.85000228881836
+logoutlocation:
+  world: 167d9e0c-3241-4b9e-8139-5ee50cb2790a
+  world-name: world
+  x: -475.5
+  y: 71.0
+  z: 2.5
+  yaw: 0.75054931640625
+  pitch: 89.55000305175781
+mail:
+- legacy: false
+  read: false
+  message: Due to the multiverse-core plugin disabling nether and end portals from
+    working. Both dimensions can be accessed by right clicking the npc with the said
+    dimension name. To access the hub world do /warp hub
+  sender-name: Console
+  sender-uuid: 'null'
+  timestamp: 1675095427285
+  expire: 0

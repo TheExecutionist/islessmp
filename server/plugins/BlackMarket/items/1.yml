@@ -1,0 +1,22 @@
+owner: ab7f3eb0-bc3b-350d-ab5c-56984c3c89b4
+value: 250000.0
+date: 1674638755367
+status: TIME_OUT
+item:
+  ==: org.bukkit.inventory.ItemStack
+  type: SKULL_ITEM
+  damage: 3
+  meta:
+    ==: ItemMeta
+    meta-type: SKULL
+    display-name: §r§5Ender Warrior Helmet
+    lore:
+    - ''
+    - §1§lEPIC HELMET
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 9
+      OXYGEN: 65533
+      THORNS: 5
+    repair-cost: 7
+    internal: H4sIAAAAAAAAAE2PzU6DQBzE/5qYVOJjeCVZCqxw8FCt0iVdsC0tXW58LOFjqQ0Fw/JcPqB79DCTTH4zh9EANHg6tKMQX/13WQu+gHtSwLNr2Jg7JdbzQpmFOdZThHPdyV3HMZ3MTLNSA02Nrrwfan57hMXAp2Hs+U0DgLsFPJxSMXL45dJHyblCxdkXuSRY5eiAREia6wu5nGT2TjDpFN+s8Fa6/7r2kMa2YKZfJZfdmHUntDX3gm/2Rt4df8I1nYLIr+lctWz+QLQ5WqG3mwIvaZM1tVj8WVGPGIF3XNKIWkHz1gVLxSNqKxmsoZLNqymJiaSKJREzWe275Rm9qgfwB1plBZocAQAA
+notified: false
