@@ -6527,3 +6527,29 @@
 [02-01 16:08:06]: [FINE] The user TheExecutionist has 9 accounts:
 [02-01 16:08:06]: [FINE] §7§aTheExecutionist§7, chonken, viggyee267, bluestonenuke, fatal, wasup1st, yeelervool268, wait_what_glitch, yuko_duck.
 [02-01 16:08:06]: [FINE] TheExecutionist logged in 172.31.128.1
+[02-01 18:22:17]: [INFO] SQLite Setup finished
+[02-01 18:22:17]: [INFO] Hooked into LuckPerms!
+[02-01 18:22:17]: [INFO] Hooked successfully into Essentials
+[02-01 18:22:17]: [INFO] Hooked successfully into Multiverse-Core
+[02-01 18:22:17]: [INFO] Essentials spawn file not found: '/home/runner/eaglercraftx/server/plugins/Essentials/spawn.yml'
+[02-01 18:22:18]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[02-01 18:22:18]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[02-01 18:22:22]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[02-01 18:22:22]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[02-01 18:22:22]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[02-01 18:22:22]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[02-01 18:22:22]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.io.RandomAccessFile.open0(Native Method)
+	at java.io.RandomAccessFile.open(RandomAccessFile.java:316)
+	at java.io.RandomAccessFile.<init>(RandomAccessFile.java:243)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+	at org.github.paperspigot.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:23)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+
